@@ -1,3 +1,4 @@
+<img width="157" height="165" alt="Age_1" src="https://github.com/user-attachments/assets/99669fc5-6d46-4bac-83ad-4485f94205ae" />
 # Age Estimation 
 
 This project demonstrates **age estimation from facial images** using transfer learning.  
